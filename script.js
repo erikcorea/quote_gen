@@ -18,6 +18,7 @@ function completeLoading() {
     quoteContainer.hidden = false;
     loader.hidden = true;
 }
+
 // Show new quote
 function newQuote() {
     loading();
