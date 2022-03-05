@@ -1,5 +1,7 @@
 # Quote Generator
 
+![app](../quote_gen/image/quotegen.png)
+
 ## Project Description
 - An application allowing users to generate a random quote which was grabed from a 3rd party api.
 - Users are able to tweet the quote to their accounts if they would like this is capable from using the 3rd party twitter api
