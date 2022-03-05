@@ -1,6 +1,6 @@
 # Quote Generator
 
-![](../quote_gen/image/quotegen.png)
+![](quotegen.png)
 
 ## Project Description
 - An application allowing users to generate a random quote which was grabed from a 3rd party api.
